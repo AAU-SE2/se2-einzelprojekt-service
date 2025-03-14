@@ -20,9 +20,9 @@ dependencies {
 
     implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.8.4")
 
-    implementation("io.github.pdvrieze.xmlutil:core:0.90.3")
-    implementation("io.github.pdvrieze.xmlutil:serialization:0.90.3")
-    implementation("org.jetbrains.kotlinx:kotlinx-serialization-core:1.6.3")
+    implementation("io.github.pdvrieze.xmlutil:core:0.86.0")
+    implementation("io.github.pdvrieze.xmlutil:serialization:0.86.0")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-core:1.5.1")
     implementation("io.ktor:ktor-client-cio:2.3.13")
 
     testImplementation("org.springframework.boot:spring-boot-starter-test")
